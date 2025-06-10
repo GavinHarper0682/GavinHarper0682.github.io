@@ -37,18 +37,5 @@
 <br>
 
 Last Modified On: <script>document.write(document.lastModified);</script>
-</body>
-
-
-
-
-
-
-
-
-
-
-
-
-  
+</body> 
 </html>
