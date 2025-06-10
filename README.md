@@ -5,7 +5,7 @@
 </head>
 <body bgcolor = "blue">
 
-<font color = "red"><font size = "5"><i> This is who we are...</i></font>
+<font color = "red"><font size = "5"><i> This is who we are...</i></font></font>
 <br>
 <br>
 At <b>Eloheh</b>, we offer <u>groundbreaking</u> advancements in healthcare technology, products, and services.
