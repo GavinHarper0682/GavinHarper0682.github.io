@@ -30,6 +30,7 @@
 <li>Receive personalized care and follow-up</li>
 </ol></font>
 <br>
+<font size = "2"> for information regarding keeping up on your physical health, check out this <a href
 <font size = "2">Have Questions? <a href = "mailto: harpe151@purdue.edu"> Contact Me </a></font>
 <br>
 <br>
