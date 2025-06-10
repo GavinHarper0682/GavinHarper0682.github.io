@@ -4,6 +4,7 @@
 </head>
 <body>
 <h1>Welcome to Eloheh!</h1>
+<img src="http://www.tizag.com/pics/htmlT/sunset.gif" />
 <font color = "red" size = "5"><i> This is who we are...</i></font>
 <br>
 <br>
