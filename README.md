@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1>Welcome to <b>Eloheh!</b></h1>
+<h1>Welcome to <b>Eloheh!</b> </h1>
 
 </head>
 <body>
