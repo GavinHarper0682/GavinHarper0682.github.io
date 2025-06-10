@@ -30,12 +30,13 @@
 <li>Receive personalized care and follow-up</li>
 </ol></font>
 <br>
-<font size = "2"> for information regarding keeping up on your physical health, check out this <a href
+<font size = "2"> For information regarding keeping up on your physical health, <a href = "https://www.nia.nih.gov/sites/default/files/2025-01/exercise-three-types.pdf" >download flyer</a>
+<br>
 <font size = "2">Have Questions? <a href = "mailto: harpe151@purdue.edu"> Contact Me </a></font>
 <br>
 <br>
 
-<script>document.write(document.lastModified);</script>
+Last Modified On: <script>document.write(document.lastModified);</script>
 </body>
 
 
