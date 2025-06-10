@@ -1,5 +1,5 @@
 <html>
-<head>
+<head bgcolor = "Orange">
 <h1>Welcome to Eloheh! </h1>
 
 </head>
