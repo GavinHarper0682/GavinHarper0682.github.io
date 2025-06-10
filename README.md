@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1>">Welcome to Eloheh!</h1>
+<h1>Welcome to Eloheh!</h1>
 
 </head>
 <body bgcolor = "blue">
