@@ -19,14 +19,13 @@
   <ul>
   <li>Compassionate care</li>
   <li>Innovation through technology</li>
-  <li>Accessibility for all</li></font>
-<br>
-<font color = "#000080" size = "4"> Signing up has never been easier, just follow these steps:
+  <li>Accessibility for all</li>
+<br><font color = "#000080" size = "4"> Signing up has never been easier, just follow these steps:
 <ol>
   <li>Create an Eloheh account</li>
   <li>Book an appointment or order a product</li>
   <li>Receive personalized care and follow-up</li>
-</ol></font>
+</ol>
 <br>
 Have Questions? <a href = "mailto: harpe151@purdue.edu"> Contact Me </a></font>
 
