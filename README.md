@@ -1,9 +1,9 @@
 <html>
-<head bgcolor = "Orange">
+<head>
 <h1>Welcome to Eloheh! </h1>
 
 </head>
-<body>
+<body bgcolor = 'red'>
 
 <i> This is who we are...</i>
 <br>
