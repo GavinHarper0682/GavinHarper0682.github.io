@@ -9,7 +9,7 @@
 <br>
 <br>
   
-<font color = "#000080" size = "4"> At <b>Eloheh</b>, we offer <u>groundbreaking</u> advancements in healthcare technology, products, and services. </font>
+<font color = "#000080" size = "4" face = "TImes New Roman"> At <b>Eloheh</b>, we offer <u>groundbreaking</u> advancements in healthcare technology, products, and services. </font>
 <br>
 <br>
 
