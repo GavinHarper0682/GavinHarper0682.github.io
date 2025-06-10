@@ -4,6 +4,7 @@
 </head>
 <body bgcolor = "blue">
 <h1>Welcome to Eloheh!</h1>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/5/57/Caduceus.svg" width = "150" </img>
 <font color = "red" size = "5"><i> This is who we are...</i></font>
 <br>
 <br>
