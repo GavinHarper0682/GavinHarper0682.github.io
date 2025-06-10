@@ -7,7 +7,7 @@
 
 <font color = "red"><i> This is who we are...</i></font>
 <br>
-At <b>Eloheh</b>, we offer groundbreaking advancements in healthcare technology, products, and services.
+At <b>Eloheh</b>, we offer <u>groundbreaking</u> advancements in healthcare technology, products, and services.
 
 
 
