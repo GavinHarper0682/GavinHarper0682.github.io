@@ -4,7 +4,7 @@
 </head>
 <body bgcolor = "blue">
 <h1>Welcome to Eloheh!</h1>
-<img src = "https://banner2.cleanpng.com/20180421/egw/avee30s1r.webp" width = "150" </img>
+<img src = "https://banner2.cleanpng.com/20180421/egw/avee30s1r.webp" width = "150"
 <font color = "red" size = "5"><i> This is who we are...</i></font>
 <br>
 <br>
