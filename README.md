@@ -2,7 +2,7 @@
 <head>
 
 </head>
-<body bgcolor = "blue">
+<body>
 <h1>Welcome to Eloheh!</h1>
 <font color = "red" size = "5"><i> This is who we are...</i></font>
 <br>
